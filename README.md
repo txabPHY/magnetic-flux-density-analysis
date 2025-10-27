@@ -24,15 +24,18 @@ This workflow is representative of tasks in materials characterisation, ion-beam
 * Reproducible analysis of experimental datasets
 
 ## Repository Structure
+
+```
 .
-├─ magnetic_flux_density_analysis.py
 ├─ data/
-│  └─ experimental_signal_data.dat
+│   └── experimental_signal_data.dat
+├─ .gitignore 
+├─ LICENSE
 ├─ Problem_Statement.ipynb
 ├─ README.md
-├─ requirements.txt
-├─ LICENSE
-└─ .gitignore
+├─ magnetic_flux_density_analysis.py
+└─ requirements.txt
+```
 
 ## Running the Script
 
