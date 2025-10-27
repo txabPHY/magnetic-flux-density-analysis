@@ -28,8 +28,7 @@ This workflow is representative of tasks in materials characterisation, ion-beam
 ```
 .
 ├─ magnetic_flux_density_analysis.py
-├─ data/
-│   └── ion_implantation_signals.dat
+├─ experimental_signal_data.dat
 ├─ README.md
 ├─ requirements.txt
 ├─ LICENSE
@@ -54,7 +53,7 @@ Plots and outputs will appear automatically.
 
 ## Dataset Description
 
-The file `ion_implantation_signals.dat` contains:
+The file `experimental_signal_data.dat` contains:
 
 * A metadata header
 * A ten-column data table consisting of:
