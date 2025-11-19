@@ -1,6 +1,6 @@
 # Magnetic Flux Density Analysis (Python)
 
-This project processes multi-energy ion implantation detector signals to estimate magnetic flux density and analyse damping behaviour over time. It demonstrates scientific computing, signal processing, data modelling and visualisation using Python.
+This project processes muon spectroscopy data to estimate magnetic flux density and analyse damping behaviour over time. It demonstrates scientific computing, signal processing, data modelling and visualisation using Python.
 
 ## Overview
 
@@ -22,20 +22,6 @@ This workflow is representative of tasks in materials characterisation, ion-beam
 * Numerical modelling of physical behaviour
 * Visualisation using Matplotlib
 * Reproducible analysis of experimental datasets
-
-## Repository Structure
-
-```
-.
-├─ data/
-│   └── experimental_signal_data.dat
-├─ .gitignore 
-├─ LICENSE
-├─ Problem_Statement.ipynb
-├─ README.md
-├─ magnetic_flux_density_analysis.py
-└─ requirements.txt
-```
 
 ## Running the Script
 
