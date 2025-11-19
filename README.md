@@ -1,4 +1,4 @@
-# Magnetic Flux Density Analysis (Python)
+# Muon Spectroscopy Data Analysis (Python)
 
 This project processes muon spectroscopy data to estimate magnetic flux density and analyse damping behaviour over time. It demonstrates scientific computing, signal processing, data modelling and visualisation using Python.
 
